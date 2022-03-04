@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog/2</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog/2</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog/fuse-search</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog/fuse-search</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog/custom-404-page</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog/custom-404-page</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog/getting-started</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog/getting-started</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog/mailchimp-newsletters</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog/mailchimp-newsletters</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog/my-first-blog-post</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog/my-first-blog-post</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog/customizing-your-site</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog/customizing-your-site</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog/feed.atom</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog/feed.atom</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/about</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/about</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/contact</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/contact</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog/categories/configuration</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog/categories/configuration</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://jigsaw-blog-template.tighten.co/blog/categories/feature</loc>
-  <lastmod>2022-03-04T20:23:21+00:00</lastmod>
+  <loc>https://nspaul.github.io/testing-gh-pages/blog/categories/feature</loc>
+  <lastmod>2022-03-04T20:42:07+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
 </urlset>
